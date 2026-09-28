@@ -1,0 +1,6 @@
+order_id,item,quantity,unit_price,region
+1,Notebook,3,2.5,North
+2,Pen,5,1.25,South
+3,Laptop,1,820.0,East
+4,Coffee,10,3.4,North
+5,Notebook,2,2.9,West
